@@ -6,6 +6,6 @@
 - tested on Windows 10, Python 3.7.4 [MSC v.1915 64 bit (AMD64)]
 - t.b.c.
 
-<video controls=True src="Figure 1 2022-04-10 10-42-21.mp4"></video>
+<video controls=True width=340 src="Figure 1 2022-04-10 10-42-21.mp4"></video>
 
 Check rendered page at: [https://frederic-vw.github.io/noise_controller/](https://frederic-vw.github.io/noise_controller/)
