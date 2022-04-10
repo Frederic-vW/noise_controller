@@ -5,3 +5,5 @@
 - stop noise for x seconds if e.g. ping occurs
 - tested on Windows 10, Python 3.7.4 [MSC v.1915 64 bit (AMD64)]
 - t.b.c.
+
+<video controls=True src="Figure 1 2022-04-10 10-42-21.mp4"></video>
